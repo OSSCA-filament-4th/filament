@@ -32,6 +32,7 @@ set(PUBLIC_HDRS
         include/filament/MaterialInstance.h
         include/filament/MorphTargetBuffer.h
         include/filament/Options.h
+        include/filament/Ray.h
         include/filament/RenderTarget.h
         include/filament/RenderableManager.h
         include/filament/Renderer.h
